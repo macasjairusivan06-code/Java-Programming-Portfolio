@@ -31,8 +31,3 @@ Final Project
 
 The final project applies the concepts learned throughout the course to solve a more complete programming problem using Java. It emphasizes proper logic design, structured code, and object-oriented principles.
 
-Notes;
-
-     . All programs are written in Java.
-
-     . This repository is intended for academic and learning purposes only.
