@@ -3,7 +3,7 @@ DCIT 50 – Java Programming Laboratory Portfolio
 This repository contains all laboratory activities completed for the course DCIT 50 – Object-Oriented Programming.
 The activities demonstrate my progress in Java programming, starting from basic syntax and concepts up to object-oriented programming principles and simple system implementations.
 
-LABORATORY ACTIVITIES:
+LABORATORY ACTIVITIES 
 Laboratory Activity #1 – Java Programming Review
 
 A review of basic Java programming concepts, including syntax, input/output, and program flow.
