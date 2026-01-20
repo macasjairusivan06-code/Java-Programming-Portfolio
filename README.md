@@ -1,33 +1,85 @@
 DCIT 50 – Java Programming Laboratory Portfolio
-Introduction
 
-This repository contains my laboratory activities for the DCIT 50 – Java Programming course.
-These activities demonstrate my understanding of Java fundamentals, including variables, arrays, loops, conditionals, switch-case statements, and method-based program design. The progression of the labs reflects my development from basic Java concepts to more structured and modular programs.
+This repository contains all laboratory activities completed for the course DCIT 50 – Object-Oriented Programming.
+The activities demonstrate my progress in Java programming, starting from basic syntax and concepts up to object-oriented programming principles and simple system implementations.
 
-Laboratory Activities
-Laboratory 1: Java Review – Library Book Management System
+LABORATORY ACTIVITIES:
+Laboratory Activity #1 – Java Programming Review
 
-A console-based Java program developed as a laboratory examination.
+A review of basic Java programming concepts, including syntax, input/output, and program flow.
 
-The program simulates a basic Campus Library Book Management System that helps track book borrowing activities. It uses arrays to store book titles and availability status, with a maximum limit of five books.
+    . Variables and data types
 
-Main features include:
+    . Loops and conditional statements
 
-     . Displaying a menu using a switch-case statement
+    . Methods and basic code organization
 
-     . Adding new books with a default status of Available
+    . Basic input and output
 
-     . Updating book status by toggling between Available and Borrowed
+Laboratory Activity #2 – Working with Java Classes
 
-     . Displaying all registered books with their status
+Introduces the fundamentals of object-oriented programming through class creation and object usage.
 
-     . Generating a simple report showing total, available, and borrowed books
+    . Class and object creation
 
-     . Handling invalid inputs and exiting the program gracefully
+    . Constructors
 
-This laboratory focuses on arrays, loops, conditionals, input validation, and modular coding using methods.
+    . Instance variables and methods
 
-Final Project
+    . Basic OOP concepts
 
-The final project applies the concepts learned throughout the course to solve a more complete programming problem using Java. It emphasizes proper logic design, structured code, and object-oriented principles.
+Laboratory Activities #3 and #4 – Coffee Shop System
 
+Implements a simple coffee shop ordering system using object-oriented programming principles.
+
+    . Default and parameterized constructors
+
+    . Use of the this keyword
+
+    . Static variables and methods
+
+    . Encapsulation
+
+Laboratory Activity #5 – School Management System (Inheritance and Aggregation)
+
+Models a school management system using class relationships and inheritance.
+
+    . Inheritance (extends)
+
+    . IS-A and HAS-A relationships
+
+    . Aggregation
+
+    . Use of the super keyword
+
+Laboratory Activity #6 – School Management System (Polymorphism)
+
+Enhances the system by applying polymorphism to manage different object behaviors.
+
+    . Method overriding
+
+    . Polymorphism
+
+    . Parent and child class references
+
+    . Dynamic binding
+
+Laboratory Activity #7 – Order Management System
+
+Develops an order management system using advanced Java features and collections.
+
+    . Abstraction (abstract classes and interfaces)
+
+    . Encapsulation
+
+    . Enums
+
+    . Packages
+
+    . ArrayList and Iterator
+ 
+
+Name: Macas, Jairus Ivan v.
+Program: BSCS-2D
+Course: DCIT 50 – Object Oriented Programming
+Instructor: Sir Johnroe Paulo Cañamaque
